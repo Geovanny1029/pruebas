@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    TRABAJNDO EN GIT
+                    TRABAJANDO EN GIT
                 </div>
 
                 <div class="links">

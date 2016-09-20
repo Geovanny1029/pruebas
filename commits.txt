@@ -1,0 +1,11 @@
+commit 29ac6d94218798ad1a1529536e7cafa20e711503
+Author: Geo <jose_32127@hotmail.com>
+Date:   Tue Sep 20 11:54:54 2016 -0500
+
+    Cambio en la vista principal
+
+commit fe14bda1be5a1d3e559581d371293ffa50c52b53
+Author: Geo <jose_32127@hotmail.com>
+Date:   Tue Sep 20 11:47:09 2016 -0500
+
+    Inicio del proyecto en git
